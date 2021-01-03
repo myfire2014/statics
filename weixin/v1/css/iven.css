@@ -61,7 +61,7 @@ nav ul li a.current{color:#1A60AF; font-weight:bold;}
 
 
 /*content-2*/
-.content-2{ background:url(/public/v1/img/yxce-bg.jpg); padding-bottom:60px;}
+.content-2{ background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/yxce-bg.jpg); padding-bottom:60px;}
 .content-title-2{text-align:center; margin-top:60px;}
 .content-title-2 p{ margin:0; font-size:28px; font-weight:100;}
 .content-title-2 span {font-size:26px;color:#366EB5; display:block; margin-top:20px; margin-bottom:10px;}
@@ -81,7 +81,7 @@ nav ul li a.current{color:#1A60AF; font-weight:bold;}
 .content-3 .k8-box p{ margin-top:5px; color:#777;}
 .content-3 .k8-box:hover p{color:#366eb5;}
 
-.content-4{ background:url(/public/v1/img/youshi-bg.jpg) no-repeat; padding-bottom:80px;}
+.content-4{ background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/youshi-bg.jpg) no-repeat; padding-bottom:80px;}
 .content-title-4{ text-align:center; margin-top:60px;}
 .content-title-4 span{display:block; color:#229EDE; font-size:28px; margin-bottom:3px;}
 .content-title-4 small{font-size:12px; color:#fff; display:block; margin-top:4px;}
@@ -103,7 +103,7 @@ nav ul li a.current{color:#1A60AF; font-weight:bold;}
 .content-5-box li:hover .n-date{border:#9ACAFF 1px solid;}
 .content-5-box li:hover .n-date span{background:#239EDE; color:#fff;}
 
-.content-6{ background:url(/public/v1/img/yxce-bg.jpg); padding-top:30px; padding-bottom:60px;}
+.content-6{ background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/yxce-bg.jpg); padding-top:30px; padding-bottom:60px;}
 .content-6-box{ margin-top:30px;}
 .content-6-box .pct{min-height:55px; background:#62676C; padding:15px; transition:all 0.5s; position:relative;}
 .content-6-box .pct img{ float:left; margin-right:15px;}
@@ -140,7 +140,7 @@ nav ul li a.current{color:#1A60AF; font-weight:bold;}
 .web-content-1{ margin-top:30px; margin-bottom:80px;}
 
 .web-title-1{text-align:center; font-size:30px; line-height:30px;}
-.web-title-1 span{ display:block; font-size:15px; color:#666; background:url(/public/v1/img/web-title-bg.gif) no-repeat center center; margin-top:20px;}
+.web-title-1 span{ display:block; font-size:15px; color:#666; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/web-title-bg.gif) no-repeat center center; margin-top:20px;}
 .web-title-2{text-align:center; font-size:30px; line-height:30px;}
 .web-title-2 span{ display:block; font-size:15px; color:#666; margin-top:20px; margin-bottom:5px;}
 
@@ -155,7 +155,7 @@ nav ul li a.current{color:#1A60AF; font-weight:bold;}
 
 
 .web-content-3{ margin:60px 0;}
-.web-content3-box{ margin-top:20px; background:url(/public/v1/img/2015-09-23_124518.jpg) repeat-y 42px 5px; }
+.web-content3-box{ margin-top:20px; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/2015-09-23_124518.jpg) repeat-y 42px 5px; }
 .web-content3-box h3 span{ background:#fff; display:inline-block; width:14px; height:14px;border:#004081 1px solid; border-radius:14px; margin-right:10px; margin-top:4px;}
 .web-content3-box h3{color:#004081; font-weight:bold; margin-bottom:0;overflow:hidden;}
 .web-content3-box p{ margin-top:5px; margin-left:30px; line-height:1.8em;}
@@ -165,22 +165,22 @@ nav ul li a.current{color:#1A60AF; font-weight:bold;}
 .web-content4-box{ margin-top:90px;}
 .web-content4-box h3{ margin-bottom:40px;}
 .web-content4-box h3 span{display:inline-block; width:50px; height:32px; text-align:center; line-height:32px; color:#fff;}
-.web-content4-bigbox .uk-text-left h3 span{background:url(/public/v1/img/w4-num-bg-left.png) no-repeat; margin-right:20px;}
-.web-content4-bigbox .uk-text-right h3 span{background:url(/public/v1/img/w4-num-bg-right.png) no-repeat; margin-left:20px;}
+.web-content4-bigbox .uk-text-left h3 span{background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/w4-num-bg-left.png) no-repeat; margin-right:20px;}
+.web-content4-bigbox .uk-text-right h3 span{background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/w4-num-bg-right.png) no-repeat; margin-left:20px;}
 .web-content4-box h3{border:#DBDBDB 1px solid; padding:2px;}
 
 .web-content-5{ margin:60px 0;}
 .web-content5-bigbox{ margin-top:35px;}
-.web-content5-box{ overflow:hidden; background:url(/public/v1/img/lc-bg.gif) no-repeat; width:145px; height:167px;}
+.web-content5-box{ overflow:hidden; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/lc-bg.gif) no-repeat; width:145px; height:167px;}
 .web-content5-box p{color:#999;}
 .web-content5-box span{display:block; margin-top:5px; color:#fff;}
-.web-content5-box:hover{background:url(/public/v1/img/lc-bg-hover.png) no-repeat;}
+.web-content5-box:hover{background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/lc-bg-hover.png) no-repeat;}
 .web-content5-box:hover h3{color:#d3433e; font-weight:bold;}
 
 .web-content-6{position:relative; background:#f2f2f2; padding-top:60px;}
-.web-content-6 .online24{position:absolute;bottom:0; overflow:hidden; height:80px; background:url(/public/v1/img/lc-time-bg.png) no-repeat center; min-width:875px; display:block; text-align:center; }
+.web-content-6 .online24{position:absolute;bottom:0; overflow:hidden; height:80px; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/lc-time-bg.png) no-repeat center; min-width:875px; display:block; text-align:center; }
 .web-content-6 .online24 p{color:#333; font-size:36px; margin-top:25px;}
-.web-content6-box h3 span{display:inline-block;width:44px; height:38px;background:url(/public/v1/img/wc6-icon.png) no-repeat; line-height:38px; text-align:center; margin-right:10px;color:#999;}
+.web-content6-box h3 span{display:inline-block;width:44px; height:38px;background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/wc6-icon.png) no-repeat; line-height:38px; text-align:center; margin-right:10px;color:#999;}
 .web-content6-box h3{font-size:16px; margin-top:20px;}
 
 
@@ -207,14 +207,14 @@ nav ul li a.current{color:#1A60AF; font-weight:bold;}
 .web-content9-box{ margin-top:25px;}
 .web-content9-box ul{ padding:0; margin:0;}
 .web-content9-box ul li{ margin-bottom:15px;}	
-.web-content9-box ul li a{color:#333; margin-left:15px; transition:color 0.5s;background:url(/public/v1/img/squ-icon.jpg) no-repeat left; padding-left:15px; }
+.web-content9-box ul li a{color:#333; margin-left:15px; transition:color 0.5s;background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/squ-icon.jpg) no-repeat left; padding-left:15px; }
 .web-content9-box ul li a:hover{color:#368CEA;}
 .web-content9-box ul li span{ float:right; color:#999;}
 
 .web-content-10{ margin-bottom:80px;}
 .web-content10-box{ border-top:#ccc 1px solid; border-bottom:#ccc 1px solid;}
-.web-content-10 h3{height:43px; line-height:43px; color:#fff; background:url(/public/v1/img/view-other-bg.jpg) no-repeat right; padding-left:30px;}
-.web-content10-box ul li{background:url(/public/v1/img/squ-icon.jpg) no-repeat left; display:inline-block; line-height:43px; margin:0 10px;}
+.web-content-10 h3{height:43px; line-height:43px; color:#fff; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/view-other-bg.jpg) no-repeat right; padding-left:30px;}
+.web-content10-box ul li{background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/squ-icon.jpg) no-repeat left; display:inline-block; line-height:43px; margin:0 10px;}
 .web-content10-box ul li a{ margin-left:15px;color:#666; font-size:16px;}
 
 
@@ -242,7 +242,7 @@ nav ul li a.current{color:#1A60AF; font-weight:bold;}
 
 .weixin-content-3{ margin:60px 0;}
 .weixin-content3-box{ margin-top:30px;}
-.weixin-content3-box p{ background:url(/public/v1/img/squ-icon-red.gif) no-repeat left 8px; padding-left:15px; padding-bottom:6px; font-size:15px; border-bottom:#BFBFBF 1px dotted; margin-top:5px; margin-bottom:10px;}
+.weixin-content3-box p{ background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/squ-icon-red.gif) no-repeat left 8px; padding-left:15px; padding-bottom:6px; font-size:15px; border-bottom:#BFBFBF 1px dotted; margin-top:5px; margin-bottom:10px;}
 .wx-view-btn{ background:#f2f2f2; border:#e0e0e0 1px solid; color:#666; padding:4px 30px; display:inline-block; margin-top:25px; font-size:15px; transition:all 0.5s;}
 .wx-view-btn:hover{background:#d3433e; color:#fff;border:#d3433e 1px solid;}
 .wx-view-btn-blue{background:#d3433e; border:#e0e0e0 1px solid; color:#666; padding:4px 30px; display:inline-block; margin-top:25px; font-size:15px; transition:all 0.5s; color:#fff;}
@@ -258,17 +258,17 @@ nav ul li a.current{color:#1A60AF; font-weight:bold;}
 /*
 APP����
 */
-.what-app-box{ overflow:hidden; background:url(/public/v1/img/app-bg.png) no-repeat center top; padding-bottom:50px;}
+.what-app-box{ overflow:hidden; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/app-bg.png) no-repeat center top; padding-bottom:50px;}
 .what-app-box img{ margin-top:120px;}
 .app-content-1,.app-content-3{ margin:60px 0;}
 .app-content-1 h2{font-size:18px; font-weight:100; line-height:2em;}
 .app-content-1 h3{ margin-bottom:30px;}
-.app-content-1 p{ background:url(/public/v1/img/2015-09-23_212544.jpg) no-repeat left; padding-left:20px; font-size:18px;}
+.app-content-1 p{ background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/2015-09-23_212544.jpg) no-repeat left; padding-left:20px; font-size:18px;}
 .app-content-2{ background:#f2f2f2; padding:60px 0;}
 .app-content-3 p,.app-content-4 p{font-size:16px; color:#666; line-height:1.8em;}
 .app-content-3 .web-title-1,.app-content-4 .web-title-1{ margin-bottom:30px;}
 .app-content-4{ margin-bottom:60px;}
-.apple-bg{ background:url(/public/v1/img/app-bg.png) no-repeat top center;}
+.apple-bg{ background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/app-bg.png) no-repeat top center;}
 
 /*
 ר��-΢���� ΢�̳� ΢����
@@ -469,7 +469,7 @@ APP����
 
 .dist-content-1-box > div { padding:20px;}
 .fenxiao-list{ margin:0; padding:0; margin-top:30px;}
-.fenxiao-list li{ background:url(/public/v1/img/squ-icon-blue.gif) no-repeat left; border-bottom:#ccc 1px dotted;font-size:16px; padding-left:15px; line-height:2.2em;}
+.fenxiao-list li{ background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/squ-icon-blue.gif) no-repeat left; border-bottom:#ccc 1px dotted;font-size:16px; padding-left:15px; line-height:2.2em;}
 
 .blue-btn{ background:#d3433e; color:#fff; padding:7px 20px; font-size:16px;}
 .blue-btn:hover{color:#f3f3f3; background:#338CEA;}
@@ -490,7 +490,7 @@ APP����
 
 .sale-content-3{ margin:60px 0;}
 .yuanli-box{ margin-bottom:40px;}
-.yuanli-box .uk-vertical-align{height:140px; background:url(/public/v1/img/2015-09-28_100359.jpg) no-repeat top right;}
+.yuanli-box .uk-vertical-align{height:140px; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/2015-09-28_100359.jpg) no-repeat top right;}
 .yuanli-box h3{font-size:24px; color:#d3433e; font-weight:bold;}
 .sale-content-3 .yuanli-box p{ margin:0px; font-size:18px; color:#666;}
 
@@ -512,16 +512,16 @@ APP����
 
 .dps-content-3{ background:#f2f2f2; padding:60px 0; margin:60px 0;}
 .dps-content-3 h1{ margin-bottom:30px;}
-.dps-content3-list{ margin:0; padding:0;background:url(/public/v1/img/2015-09-28_131752.jpg) repeat-y 17px 0;}
+.dps-content3-list{ margin:0; padding:0;background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/2015-09-28_131752.jpg) repeat-y 17px 0;}
 .dps-content3-list li{ margin-bottom:20px;}
 .dps-content3-list span{color:#666;}
-.dps-content3-list i{display:block; width:35px; height:42px;background:url(/public/v1/img/2015-09-28_131156.jpg) no-repeat center; color:#d3433e; font-style:normal; text-align:center; line-height:42px; float:left; margin-right:15px;/*margin-bottom: 40px;*/}
+.dps-content3-list i{display:block; width:35px; height:42px;background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/2015-09-28_131156.jpg) no-repeat center; color:#d3433e; font-style:normal; text-align:center; line-height:42px; float:left; margin-right:15px;/*margin-bottom: 40px;*/}
 .dps-content3-list h3{ margin:0;line-height:40px;}
 .dps-content-4{ margin:60px 0;}
 .dps-content4-box{ margin-top:30px;}
 .dps-content4-box li i{display:inline-block; width:56px; height:56px; background:#0069A3; color:#fff; text-align:center; line-height:56px; border-radius:28px; font-size:30px;}
 .dps-content4-box h5{ margin-top:10px;}
-.dps-content4-box li{ background:url(/public/v1/img/2015-09-22_200909.jpg) no-repeat right 22px;}
+.dps-content4-box li{ background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/2015-09-22_200909.jpg) no-repeat right 22px;}
 .dps-content4-box li:last-child{ background:none;}
 .dps-content-4 h3{ margin-bottom:50px;}
 
@@ -568,7 +568,7 @@ APP����
 
 .cases-website-list .uk-overlay{}
 .cases-website-list .uk-overlay-panel{}
-.cases-website-list .more{ background:url(/public/v1/img/website-more.gif) no-repeat right; font-size:12px; padding-right:15px; color:#fff; display:block;}
+.cases-website-list .more{ background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/website-more.gif) no-repeat right; font-size:12px; padding-right:15px; color:#fff; display:block;}
 
 .cases-wx-bigbox figure {border:#E0E0E0 1px solid;}
 .cases-sales-content{margin:40px 0; border-top:#E5E5E5 1px solid; border-bottom:#E5E5E5 1px solid;}
@@ -618,10 +618,10 @@ APP����
 ��������
 */
 .about-content-1{ margin:30px 0 60px;}
-.about-content1-box{ padding-top:30px;background:url(/public/v1/img/about-bg.jpg) no-repeat right top;}
+.about-content1-box{ padding-top:30px;background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/about-bg.jpg) no-repeat right top;}
 .about-content-2{ padding:60px 0; background:#f2f2f2;}
 .about-content2-list{ margin-top:30px;}
-.about-content2-list li i{display:inline-block; width:40px; height:40px; background:url(/public/v1/img/squ-icon-ling.png) no-repeat; text-align:center; line-height:40px; font-size:18px; font-style:normal; color:#999; margin-right:10px;}
+.about-content2-list li i{display:inline-block; width:40px; height:40px; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/squ-icon-ling.png) no-repeat; text-align:center; line-height:40px; font-size:18px; font-style:normal; color:#999; margin-right:10px;}
 .about-content2-list li{ font-size:16px; margin-bottom:25px;}
 .about-content-3{ margin:60px 0;}
 .about-content3-box{ margin-top:30px;}
@@ -664,7 +664,7 @@ APP����
 ��������
 */
 .hotnews{ padding:0;}
-.hotnews li { padding-left:14px; background:url(/public/v1/img/website-more.gif) no-repeat left;}
+.hotnews li { padding-left:14px; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/website-more.gif) no-repeat left;}
 .hotnews li a{color:#333;}
 .hotnews li a:hover{color:#005898;}
 
@@ -672,7 +672,7 @@ APP����
 ��������
 */
 .relate-article ul{ padding-left:0;}
-.relate-article ul li{padding-left: 14px; background: url(/public/v1/img/website-more.gif) no-repeat left;}
+.relate-article ul li{padding-left: 14px; background: url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/website-more.gif) no-repeat left;}
 .relate-article ul li a{color:#666;}
 .relate-article ul li a:hover{color:#333;}
 
@@ -689,7 +689,7 @@ APP����
 .sp-sub-p span{color:#3878BF; font-weight:bold;}
 .dashed-line{ border-bottom:#D9D9D9 1px dashed;}
 
-.spec-dsp-content-6{padding:60px 0; background:url(/public/v1/img/sp-19-bg.jpg) no-repeat top center;}
+.spec-dsp-content-6{padding:60px 0; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/sp-19-bg.jpg) no-repeat top center;}
 .spec-dsp-content-6 h1{ margin-bottom:25px;}
 
 

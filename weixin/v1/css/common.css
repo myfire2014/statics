@@ -17,7 +17,7 @@ img { border: 0; }
 .head { overflow: hidden; }
 .logo { float: left; height: 120px; padding: 32px 0 31px; box-sizing: border-box; }
 .logo img { height: 59px; }
-.top_tel { float: right; padding-left: 70px; background: url(/public/v1/img/tel.png) no-repeat left center; margin-top: 33px; background-size: 60px 60px; padding-top: 3px; padding-bottom: 2px; }
+.top_tel { float: right; padding-left: 70px; background: url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/tel.png) no-repeat left center; margin-top: 33px; background-size: 60px 60px; padding-top: 3px; padding-bottom: 2px; }
 .top_tel p i { font-size: 18px; margin-bottom: 10px; display: block; font-style: normal; }
 .top_tel p span { color: #d3433e; font-size: 24px; font-weight: bold; }
 .nav { background: #444444; font-size: 16px; overflow: hidden; }
@@ -40,7 +40,7 @@ img { border: 0; }
 .white-line { clear: both; width: 100%; border-top: 1px solid #fff; line-height: 0; height: 0; font-size: 0; }
 .footer { width: 100%; line-height: 22px; font-size: 13px; background-color: #444444; color: #bbb; padding: 32px 0 30px; }
 .footer .lianxi { float: left; padding: 10px 0; font-size: 15px; line-height: 1.9em; }
-.footer .foot_erweima { float: right; width: 108px; height: 108px; background: url(/public/v1/img/bg_6.jpg) no-repeat; margin-right: 10px; margin-top: 12px; }
+.footer .foot_erweima { float: right; width: 108px; height: 108px; background: url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/bg_6.jpg) no-repeat; margin-right: 10px; margin-top: 12px; }
 .footer a { color: #ddd; }
 .flink { background-color: #444444; color: #bbb; padding-top: 40px; font-size: 15px; }
 .flink .flink_tit { margin-right: 10px; }
@@ -53,11 +53,11 @@ img { border: 0; }
 .index .footer2{ background-color:#d81b43;}
 .index .footer2_box{ width:1200px; margin:0 auto; padding:60px 0;}
 .index .footer2_box .l{ width:300px; float:left; }
-/* .index .footer2_box .l{ width:300px; float:left; background: url(/public/v1/img/5000002207.png) no-repeat right center;} */
+/* .index .footer2_box .l{ width:300px; float:left; background: url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/5000002207.png) no-repeat right center;} */
 .index .footer2_box .l .box{height:175px;position:relative;}
 .index .footer2_box .l p{ width:90%; text-align:center; font-size:20px; color:#FFF; line-height:30px; position:absolute; bottom:0px; left:0px;}
 .index .footer2_box .m{ width:440px; float:left;}
-/* .index .footer2_box .m{ width:440px; float:left; background: url(/public/v1/img/5000002207.png) no-repeat right center;} */
+/* .index .footer2_box .m{ width:440px; float:left; background: url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/5000002207.png) no-repeat right center;} */
 .index .footer2_box .m ul li{ width:47%; float:left; text-align:center; font-size:20px; color:#FFF;}
 
 .index .footer2_box .r{ width:350px; float:left;}
@@ -71,12 +71,12 @@ img { border: 0; }
 /*固定的悬浮窗*/
 .yb_conct { position: fixed; z-index: 9999999; top: 200px; right: -127px; cursor: pointer; transition: all .3s ease; }
 .yb_bar ul li { width: 180px; height: 53px; font: 16px/53px 'Microsoft YaHei'; color: #fff; text-indent: 54px; margin-bottom: 3px; border-radius: 3px; transition: all .5s ease; overflow: hidden; }
-.yb_bar .yb_top { background: #ff6a64 url(/public/v1/img/fixcont.png) no-repeat 0 0; }
-.yb_bar .yb_phone { background: #ff6a64 url(/public/v1/img/fixcont.png) no-repeat 0 -57px; }
-.yb_bar .yb_QQ { text-indent: 0; background: #ff6a64 url(/public/v1/img/fixcont.png) no-repeat 0 -113px; }
+.yb_bar .yb_top { background: #ff6a64 url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/fixcont.png) no-repeat 0 0; }
+.yb_bar .yb_phone { background: #ff6a64 url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/fixcont.png) no-repeat 0 -57px; }
+.yb_bar .yb_QQ { text-indent: 0; background: #ff6a64 url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/fixcont.png) no-repeat 0 -113px; }
 .yb_bar .yb_ercode { /*height:200px;*/
 
-background: #ff6a64 url(/public/v1/img/fixcont.png) no-repeat 0 -169px; }
+background: #ff6a64 url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/fixcont.png) no-repeat 0 -169px; }
 .yb_bar .yb_ercode img{padding: 6px 37px 25px 37px; box-sizing: border-box; width: 180px;}
 .yb_QQ a { display: block; text-indent: 54px; width: 100%; height: 100%; color: #fff; }
 .yb_QQ a:hover { color: #fff; }
@@ -84,7 +84,7 @@ background: #ff6a64 url(/public/v1/img/fixcont.png) no-repeat 0 -169px; }
 .info_nav a { display: inline-block; width: 150px; height: 36px; line-height: 35px; margin: 0 5px; }
 .info_nav .info_back { border: 1px solid #ff6a64; color: #ff6a64; }
 .info_nav .info_qq { border: 1px solid #ff6a64; background: #ff6a64; color: #fff; }
-.imsg { background: url(/public/v1/img/foot1_bg.png) no-repeat center top; background-size: cover; }
+.imsg { background: url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/foot1_bg.png) no-repeat center top; background-size: cover; }
 .imsg h2 { font-size: 30px; font-family: "黑体"; color: #000000; padding-top: 82px; }
 .imsg .s1 { overflow: hidden; margin-bottom: 80px; padding-top: 40px; }
 .imsg input { float: left; padding: 20px 0 20px 20px; background-color: #ffffff; color: #888888; font-size: 14px; border: 0; margin-bottom:10px;}
@@ -103,7 +103,7 @@ background: #ff6a64 url(/public/v1/img/fixcont.png) no-repeat 0 -169px; }
 .page_comm a, .page_comm span.pageinfo { display: inline-block; padding: 2px 10px; margin-right: 6px; border: 1px solid #ff6a64; color: #ff6a64; }
 .page_comm a:hover { background-color: #ff6a64; color: #fff; }
 .page_comm li.thisclass { background-color: #ff6a64; color: #fff; padding: 2px 10px; margin-right: 6px; border: 1px solid #ff6a64; }
-.apply_info { background: url('/public/v1/img/061.png'); padding-top: 30px; padding-bottom: 60px; }
+.apply_info { background: url('https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/061.png'); padding-top: 30px; padding-bottom: 60px; }
 .apply_info .apply_ form { margin-top: 50px; }
 .apply_info .apply_ form .input_table { float: left; }
 .apply_info .apply_ form .input_table input { padding: 17px 20px; border-radius: 5px; border: 1px solid #ccc; outline: none; background: #fff; font-size: 18px; color: #606060; box-sizing: border-box; margin-right: 32px; }

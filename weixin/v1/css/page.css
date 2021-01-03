@@ -55,15 +55,15 @@ img{border:0;}
 .fixed-tool-box{width:50px; position:fixed; right:3%; top:20%; z-index:1024;}
 .fixed-tool-box ol li{height:50px; line-height:50px;  background-color:#000; background-repeat:no-repeat; margin-bottom:2px;}
 .fixed-tool-box ol li a{font-size:16px; color:#ffc000; font-weight:bold;}
-.fixed-tool-box ol .icon01{background-image:url(/public/v1/img/icon_01_index.png); background-position:12px -156px;}
+.fixed-tool-box ol .icon01{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/icon_01_index.png); background-position:12px -156px;}
 .fixed-tool-box ol .icon01:hover{background-image:none;}
 .fixed-tool-box ol .icon01:hover .searchBox{display:block;}
 .fixed-tool-box ol .icon01 .searchBox{display:none; left:-225px; top:0px; background:#000; width:230px; height:50px;}
-.fixed-tool-box ol .icon01 .searchBox .submit{width:20%; background-image:url(/public/v1/img/icon_01_index.png); background-position:12px -156px;}
+.fixed-tool-box ol .icon01 .searchBox .submit{width:20%; background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/icon_01_index.png); background-position:12px -156px;}
 .fixed-tool-box ol .icon01 .searchBox .input{width:80%; color:#fff; padding:0px 5px;}
 .fixed-tool-box ol .icon01 .searchBox .input,.fixed-tool-box ol .icon01 .searchBox .submit{height:50px; line-height:50px; background-color:transparent;}
 /*2016-11-16新增加开始*/
-.fixed-tool-box ol .icon02 .telBox{display:none; word-spacing:8px; letter-spacing:4px; left:-205px; top:0px; width:210px; height:50px; background:url(/public/v1/img/icon_01_index.png) no-repeat #000; background-position:12px -223px; color:#fff; padding-left:50px;}
+.fixed-tool-box ol .icon02 .telBox{display:none; word-spacing:8px; letter-spacing:4px; left:-205px; top:0px; width:210px; height:50px; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/icon_01_index.png) no-repeat #000; background-position:12px -223px; color:#fff; padding-left:50px;}
 .fixed-tool-box ol .icon02:hover .telBox{display:block;}
 .fixed-tool-box ol .icon02:hover{background-image:none; background:#000;}
 .fixed-tool-box ol .icon05 .kuan{display:none; padding-right:10px; left:-107px; top:-52px; }
@@ -71,20 +71,20 @@ img{border:0;}
 .fixed-tool-box ol .icon05 .QRCodeBox{width:103px; height:103px; background:#fff; padding:2px; border-color:#d8d8d8; border-radius:5px;}
 /*2016-11-16新增加结束*/
 .fixed-tool-box ol .icon02 a,.fixed-tool-box ol .icon03 a,.fixed-tool-box ol .icon04 a,.fixed-tool-box ol .icon05 a,.fixed-tool-box ol .icon06 a{left:0px; top:0px;}
-.fixed-tool-box ol .icon02{background-image:url(/public/v1/img/icon_01_index.png); background-position:12px -223px;}
-.fixed-tool-box ol .icon03{background-image:url(/public/v1/img/icon_01_index.png); background-position:10px -286px;}
-.fixed-tool-box ol .icon04{background-image:url(/public/v1/img/icon_01_index.png); background-position:10px -356px;}
-.fixed-tool-box ol .icon05{background-image:url(/public/v1/img/icon_01_index.png); background-position:11px -426px;}
-.fixed-tool-box ol .icon06{background-image:url(/public/v1/img/icon_01_index.png); background-position:9px -495px;}
-.fixed-tool-box ol .icon07 a{background:url(/public/v1/img/qq_kefu.png) no-repeat 50%;}
+.fixed-tool-box ol .icon02{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/icon_01_index.png); background-position:12px -223px;}
+.fixed-tool-box ol .icon03{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/icon_01_index.png); background-position:10px -286px;}
+.fixed-tool-box ol .icon04{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/icon_01_index.png); background-position:10px -356px;}
+.fixed-tool-box ol .icon05{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/icon_01_index.png); background-position:11px -426px;}
+.fixed-tool-box ol .icon06{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/icon_01_index.png); background-position:9px -495px;}
+.fixed-tool-box ol .icon07 a{background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/qq_kefu.png) no-repeat 50%;}
 /*小屏幕下的菜单栏*/
 .fixed-BottomTool{width:100%; line-height:50px; height:50px; left:0px; bottom:0px; border-bottom:solid 1px #fabf13; background:#000; position:fixed; z-index:9998;}
 .fixed-BottomTool ul li{width:50%; border-right:solid 1px #383838;}
 .fixed-BottomTool ul li a{padding-left:35px; color:#fabf13; font-size:16px;}
-.fixed-BottomTool ul li:first-of-type a{background:url(/public/v1/img/foot-icon_02.png) no-repeat left 50%;}
-.fixed-BottomTool ul li:last-of-type a{background:url(/public/v1/img/foot-icon_01.png) no-repeat left 50%;}
+.fixed-BottomTool ul li:first-of-type a{background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/foot-icon_02.png) no-repeat left 50%;}
+.fixed-BottomTool ul li:last-of-type a{background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/foot-icon_01.png) no-repeat left 50%;}
 .fixed-BottomTool .telBox{height:30px; top:-15px;}
-.fixed-BottomTool .telBox .icon{width:40px; height:40px; background:url(/public/v1/img/foot-icon_03.png) no-repeat 50%;}
+.fixed-BottomTool .telBox .icon{width:40px; height:40px; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/foot-icon_03.png) no-repeat 50%;}
 /*头部导航*/
 .headBox{height:90px; background:#fff;}
 .topLogo{width:395px;}
@@ -96,19 +96,19 @@ img{border:0;}
 .topNav .topSubvavBox{display:none; left:0px; top:33px; padding:10px 0px; width:200%; background:#000; z-index:1024;}
 .topNav .topSubvavBox p{line-height:30px;}
 .topNav .topSubvavBox p a{color:#fff;}
-.topNav .topSubvavBox .icon{top:-24px; left:15px; background:url(/public/v1/img/icon_01_index.png) no-repeat; background-position:0px -1463px; height:15px;}
+.topNav .topSubvavBox .icon{top:-24px; left:15px; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/icon_01_index.png) no-repeat; background-position:0px -1463px; height:15px;}
 /*小于1200头部开始*/
 .hidden-lg-Top{height:80px; background-color:#000;}
 .hidden-lg-Top-logo{}
 .hidden-lg-Top-button{width:80px; height:80px;}
 .hidden-lg-Top-button .showButton,.hidden-lg-Top-button .closeButton{width:40px; height:40px; top:20px; right:0px;}
-.hidden-lg-Top-button .showButton{background:url(/public/v1/img/icon_01_index.png) no-repeat; background-position:2px -1197px;}
-.hidden-lg-Top-button .closeButton{display:none; background:url(/public/v1/img/icon_01_index.png) no-repeat; background-position:4px -1280px;}
+.hidden-lg-Top-button .showButton{background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/icon_01_index.png) no-repeat; background-position:2px -1197px;}
+.hidden-lg-Top-button .closeButton{display:none; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/icon_01_index.png) no-repeat; background-position:4px -1280px;}
 .hidden-lg-nav{display:none; background:#000; height:1000%; top:80px; left:0px; z-index:9999; padding:15px;}
 .hidden-lg-nav ul li{font-size:16px; height:45px; line-height:45px; border-bottom:solid 1px #555; padding:0px 8px;}
 .hidden-lg-nav ul li a{color:#fff;}
 .hidden-lg-nav ul .active a{color:#ef831e;}
-.hidden-lg-nav ul li:last-of-type{border-bottom:solid 1px #fff; padding-left:40px; background:url(/public/v1/img/icon_01_index.png) no-repeat; background-position:12px -156px;}
+.hidden-lg-nav ul li:last-of-type{border-bottom:solid 1px #fff; padding-left:40px; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/icon_01_index.png) no-repeat; background-position:12px -156px;}
 .hidden-lg-nav ul li .input{height:45px; background:transparent; padding:10px; color:#fff;}
 /*脚部样式*/
 .footNavBg{background:#25262b; padding-bottom:20px;}
@@ -134,7 +134,7 @@ img{border:0;}
 .page-wwaBox .list .line{height:6px; background:#ccc;}
 .page-wwaBox .list:hover .line{background:#f0831e;}
 .page-wwaBox .list .title{margin-top:15px; margin-bottom:8px; color:#000;}
-.page-wwaBox .list .icon{background:url(/public/v1/img/page-icon_01.png) 50% no-repeat; height:15px; width:16px;}
+.page-wwaBox .list .icon{background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_01.png) 50% no-repeat; height:15px; width:16px;}
 /*代运营 简单介绍*/
 .page-introBg{padding:35px 0px 25px 0px; background:#f0831e; margin-top:70px;}
 .page-introBg .public-title-Box{max-width:710px; margin-bottom:40px;}
@@ -142,7 +142,7 @@ img{border:0;}
 .page-introBg .public-title-Box .en-title span{background:#fff;}
 /*代运营 标语*/
 .page-sloganBg{background:#f1f1f1;}
-.page-sloganBg .content{max-width:990px; height:160px; line-height:160px; color:#18a1d4; font-size:24px; padding-left:130px; background:url(/public/v1/img/page-bg-02.png) no-repeat left 50%;}
+.page-sloganBg .content{max-width:990px; height:160px; line-height:160px; color:#18a1d4; font-size:24px; padding-left:130px; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-bg-02.png) no-repeat left 50%;}
 /*代运营 方法*/
 .page-methods{padding-top:70px;}
 .page-methods .public-title-Box{max-width:463px;}
@@ -194,12 +194,12 @@ img{border:0;}
 .page-solution .rightText p:nth-last-of-type(2),.page-solution .rightText p:nth-last-of-type(1){font-weight:bold;}
 .page-solution .more{width:170px; height:45px; line-height:45px; color:#fff; background:#ff6a64; font-size:20px; margin-top:35px;}
 /*建网站 你需要这样的网站*/
-.page-affordBg{background:url(/public/v1/img/page-bg-01.png) no-repeat 50% top; min-height:1200px; margin-top:50px; padding-bottom:298px; padding-top:35px;}
+.page-affordBg{background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-bg-01.png) no-repeat 50% top; min-height:1200px; margin-top:50px; padding-bottom:298px; padding-top:35px;}
 .page-affordBg .public-title-Box{margin-bottom:55px;}
 .page-affordBg .bottomPic{left:0px; bottom:0px;}
 .page-affordBg .listBox{}
-.page-affordBg .listBox .wenB1{min-height:90px; margin-top:20px; background:url(/public/v1/img/page-icon_24.png) no-repeat 50%; line-height:30px; font-size:13px;}
-.page-affordBg .listBox .wenB2{min-height:150px; margin-top:20px; background:url(/public/v1/img/page-icon_23.png) no-repeat 50%; line-height:30px; font-size:13px;}
+.page-affordBg .listBox .wenB1{min-height:90px; margin-top:20px; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_24.png) no-repeat 50%; line-height:30px; font-size:13px;}
+.page-affordBg .listBox .wenB2{min-height:150px; margin-top:20px; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_23.png) no-repeat 50%; line-height:30px; font-size:13px;}
 .page-affordBg .listBox .text p{display:none;}
 .page-affordBg .listBox ul li{width:265px; margin-left:15px; margin-right:15px;}
 .page-affordBg .listBox ul li:hover .text{background:none;}
@@ -221,15 +221,15 @@ img{border:0;}
 .page-contrastBox .leftBox,.page-contrastBox .rightBox{width:506px;}
 .page-contrastBox .titleBg{height:70px;}
 .page-contrastBox .frame{border-width:7px; border-top:none; padding:20px; min-height:1px;}
-.page-contrastBox .leftBox .titleBg{background:url(/public/v1/img/page-icon_10.jpg) no-repeat 50%;}
-.page-contrastBox .rightBox .titleBg{background:url(/public/v1/img/page-icon_11.jpg) no-repeat 50%;}
+.page-contrastBox .leftBox .titleBg{background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_10.jpg) no-repeat 50%;}
+.page-contrastBox .rightBox .titleBg{background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_11.jpg) no-repeat 50%;}
 .page-contrastBox .leftBox .frame{border-color:#ff6a64;}
 .page-contrastBox .rightBox .frame{border-color:#999;}
 .page-contrastBox .leftBox .pic,.page-contrastBox .leftBox .text{width:50%; padding:0px 10px;}
 .page-contrastBox .leftBox .text{padding-top:35px; color:#000;}
 .page-contrastBox .leftBox .title a{color:#ff6a64; font-size:18px; margin-bottom:10px; line-height:30px;}
 .page-contrastBox .leftBox ul li{margin-bottom:10px;}
-.page-contrastBox .vsBox{width:185px; height:630px; background:url(/public/v1/img/page-icon_12.png) no-repeat 50%;}
+.page-contrastBox .vsBox{width:185px; height:630px; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_12.png) no-repeat 50%;}
 .page-contrastBox .rightBox .picBox{border-color:#999;}
 .page-contrastBox .contrastList{width:385px; padding:25px 0px;}
 .page-contrastBox .contrastList ul li{line-height:35px; color:#000;}
@@ -249,9 +249,9 @@ img{border:0;}
 .buildTitleBox .iconTitle{width:105px; font-size:24px; line-height:48px; height:48px;}
 .buildTitleBox p{font-size:12px; margin-top:15px;}
 /*建站前*/
-.page-buildAgoBg{padding:30px 0px; background:url(/public/v1/img/page-icon_13.png) no-repeat 50% top #d3433e; margin-top:50px;}
+.page-buildAgoBg{padding:30px 0px; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_13.png) no-repeat 50% top #d3433e; margin-top:50px;}
 .page-buildAgoBg .buildTitleBox{color:#fff; margin-top:35px;}
-.page-buildAgoBg .buildTitleBox .iconTitle{background:url(/public/v1/img/page-icon_15.png) no-repeat right 50%;}
+.page-buildAgoBg .buildTitleBox .iconTitle{background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_15.png) no-repeat right 50%;}
 .page-buildAgoBg .listBox{padding-top:45px;}
 .page-buildAgoBg .listPadding{padding:0px 37.5px;}
 .page-buildAgoBg .listPadding .row{margin:0px -37.5px;}
@@ -259,15 +259,15 @@ img{border:0;}
 .page-buildAgoBg .list .name{margin-top:35px; margin-bottom:10px; color:#fff; font-size:18px; height:18px; line-height:18px; border-left:solid 3px #fff; padding-left:10px;}
 .page-buildAgoBg .list p{line-height:25px; font-size:13px; color:#fff;}
 /*建站中*/
-.page-buildIng{padding:30px 0px; background:url(/public/v1/img/page-icon_14.png) no-repeat 50% top;}
+.page-buildIng{padding:30px 0px; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_14.png) no-repeat 50% top;}
 .page-buildIng .buildTitleBox{color:#000; margin-top:35px;}
-.page-buildIng .buildTitleBox .iconTitle{background:url(/public/v1/img/page-icon_16.png) no-repeat right 50%;}
+.page-buildIng .buildTitleBox .iconTitle{background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_16.png) no-repeat right 50%;}
 .page-buildIng .listBox{padding-top:40px;}
 .page-buildIng .paddingBox{padding:0px 30px;}
 .page-buildIng .paddingBox .row{margin:0px -30px;}
 .page-buildIng .list{padding:0px 30px; width:20%;}
 .page-buildIng .list .line{background:#ccc; height:5px;}
-.page-buildIng .list .icon{right:-45px; top:45%; background:url(/public/v1/img/page-icon_18.png) no-repeat 50%; width:28px; height:13px;}
+.page-buildIng .list .icon{right:-45px; top:45%; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_18.png) no-repeat 50%; width:28px; height:13px;}
 .page-buildIng .list .name{margin-top:20px; font-size:18px; color:#ff6a64;}
 .page-buildIng .list .dot{background:#ccc; border-radius:50%; width:4px; height:4px; margin:8px auto;}
 .page-buildIng .list .text{line-height:25px; color:#000; font-size:12px;}
@@ -276,9 +276,9 @@ img{border:0;}
 .page-buildIng .list:last-of-type .icon{display:none;}
 .page-buildIng .list:hover .line{background:#ff6a64;}
 /*建站后*/
-.page-buildLast{padding:30px 0px; background:url(/public/v1/img/page-icon_13.png) no-repeat 50% top #2eafbb;}
+.page-buildLast{padding:30px 0px; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_13.png) no-repeat 50% top #2eafbb;}
 .page-buildLast .buildTitleBox{color:#fff; margin-top:35px;}
-.page-buildLast .buildTitleBox .iconTitle{background:url(/public/v1/img/page-icon_17.png) no-repeat right 50%;}
+.page-buildLast .buildTitleBox .iconTitle{background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_17.png) no-repeat right 50%;}
 .page-buildLast .listBox{padding-top:55px;}
 .page-buildLast .paddingBox{padding:0px 37.5px;}
 .page-buildLast .paddingBox .row{margin:0px -37.5px;}
@@ -296,28 +296,28 @@ img{border:0;}
 .page-strengthBox .list:hover .textContent{background:#fabf13;}
 .page-strengthBox .list:hover{padding-bottom:20px;}
 .page-strengthBox .list:hover .titleBg{margin-top:-20px;}
-.page-strengthBox .titleBg{background:url(/public/v1/img/page-icon_25.png) no-repeat 50% top; padding-top:34px; font-size:13px;}
+.page-strengthBox .titleBg{background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_25.png) no-repeat 50% top; padding-top:34px; font-size:13px;}
 .page-strengthBox .textContent{padding:25px; background:#f5f5f5; line-height:25px; color:#000;}
 /*商城 产品特色*/
 .page-featureBox{padding-top:65px; max-width:1319px;}
 .page-featureBox .public-title-Box{max-width:405px;}
-.page-featureBox .listBox{margin-top:70px; background:url(/public/v1/img/page-bg-04.png) no-repeat 50% top; height:590px;}
+.page-featureBox .listBox{margin-top:70px; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-bg-04.png) no-repeat 50% top; height:590px;}
 .page-featureBox .listBox a{padding-top:215px; width:190px; color:#000; background-repeat:no-repeat; background-position:50% top;}
 .page-featureBox .listBox a:hover{color:#ed821f;}
-.page-featureBox .listBox .icon1{background-image:url(/public/v1/img/page-icon_26.png); left:90px; top:25px;}
-.page-featureBox .listBox .icon1:hover{background-image:url(/public/v1/img/page-icon_26h.png);}
-.page-featureBox .listBox .icon2{background-image:url(/public/v1/img/page-icon_27.png); left:435px; top:25px;}
-.page-featureBox .listBox .icon2:hover{background-image:url(/public/v1/img/page-icon_27h.png);}
-.page-featureBox .listBox .icon3{background-image:url(/public/v1/img/page-icon_28.png); left:765px; top:25px;}
-.page-featureBox .listBox .icon3:hover{background-image:url(/public/v1/img/page-icon_28h.png);}
-.page-featureBox .listBox .icon4{background-image:url(/public/v1/img/page-icon_29.png); left:1120px; top:25px;}
-.page-featureBox .listBox .icon4:hover{background-image:url(/public/v1/img/page-icon_29h.png);}
-.page-featureBox .listBox .icon5{background-image:url(/public/v1/img/page-icon_30.png); left:255px; bottom:25px;}
-.page-featureBox .listBox .icon5:hover{background-image:url(/public/v1/img/page-icon_30h.png);}
-.page-featureBox .listBox .icon6{background-image:url(/public/v1/img/page-icon_31.png); left:605px; bottom:25px;}
-.page-featureBox .listBox .icon6:hover{background-image:url(/public/v1/img/page-icon_31h.png);}
-.page-featureBox .listBox .icon7{background-image:url(/public/v1/img/page-icon_32.png); left:970px; bottom:25px;}
-.page-featureBox .listBox .icon7:hover{background-image:url(/public/v1/img/page-icon_32h.png);}
+.page-featureBox .listBox .icon1{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_26.png); left:90px; top:25px;}
+.page-featureBox .listBox .icon1:hover{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_26h.png);}
+.page-featureBox .listBox .icon2{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_27.png); left:435px; top:25px;}
+.page-featureBox .listBox .icon2:hover{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_27h.png);}
+.page-featureBox .listBox .icon3{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_28.png); left:765px; top:25px;}
+.page-featureBox .listBox .icon3:hover{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_28h.png);}
+.page-featureBox .listBox .icon4{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_29.png); left:1120px; top:25px;}
+.page-featureBox .listBox .icon4:hover{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_29h.png);}
+.page-featureBox .listBox .icon5{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_30.png); left:255px; bottom:25px;}
+.page-featureBox .listBox .icon5:hover{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_30h.png);}
+.page-featureBox .listBox .icon6{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_31.png); left:605px; bottom:25px;}
+.page-featureBox .listBox .icon6:hover{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_31h.png);}
+.page-featureBox .listBox .icon7{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_32.png); left:970px; bottom:25px;}
+.page-featureBox .listBox .icon7:hover{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_32h.png);}
 /*我们的产品*/
 .page-productContent{padding-top:60px;}
 .page-productContent .listBox{padding:0px 4px; margin-top:55px;}
@@ -328,36 +328,36 @@ img{border:0;}
 .page-productContent .list:hover .box{color:#fff; background:#ed821f;}
 .page-productContent .name{line-height:30px;}
 .page-productContent .box p{font-size:12px; line-height:25px;}
-.page-productContent .icon1{background-image:url(/public/v1/img/page-icon_33.png);}
-.page-productContent .icon2{background-image:url(/public/v1/img/page-icon_34.png);}
-.page-productContent .icon3{background-image:url(/public/v1/img/page-icon_35.png);}
-.page-productContent .icon4{background-image:url(/public/v1/img/page-icon_36.png);}
-.page-productContent .icon5{background-image:url(/public/v1/img/page-icon_37.png);}
-.page-productContent .icon6{background-image:url(/public/v1/img/page-icon_38.png);}
-.page-productContent .icon7{background-image:url(/public/v1/img/page-icon_39.png);}
-.page-productContent .icon8{background-image:url(/public/v1/img/page-icon_40.png);}
-.page-productContent .icon9{background-image:url(/public/v1/img/page-icon_41.png);}
-.page-productContent .icon10{background-image:url(/public/v1/img/page-icon_42.png);}
-.page-productContent .icon11{background-image:url(/public/v1/img/page-icon_43.png);}
-.page-productContent .icon12{background-image:url(/public/v1/img/page-icon_44.png);}
-.page-productContent .icon13{background-image:url(/public/v1/img/page-icon_45.png);}
-.page-productContent .icon14{background-image:url(/public/v1/img/page-icon_46.png);}
-.page-productContent .icon15{background-image:url(/public/v1/img/page-icon_47.png);}
-.page-productContent .list:hover .icon1{background-image:url(/public/v1/img/page-icon_33h.png);}
-.page-productContent .list:hover .icon2{background-image:url(/public/v1/img/page-icon_34h.png);}
-.page-productContent .list:hover .icon3{background-image:url(/public/v1/img/page-icon_35h.png);}
-.page-productContent .list:hover .icon4{background-image:url(/public/v1/img/page-icon_36h.png);}
-.page-productContent .list:hover .icon5{background-image:url(/public/v1/img/page-icon_37h.png);}
-.page-productContent .list:hover .icon6{background-image:url(/public/v1/img/page-icon_38h.png);}
-.page-productContent .list:hover .icon7{background-image:url(/public/v1/img/page-icon_39h.png);}
-.page-productContent .list:hover .icon8{background-image:url(/public/v1/img/page-icon_40h.png);}
-.page-productContent .list:hover .icon9{background-image:url(/public/v1/img/page-icon_41h.png);}
-.page-productContent .list:hover .icon10{background-image:url(/public/v1/img/page-icon_42h.png);}
-.page-productContent .list:hover .icon11{background-image:url(/public/v1/img/page-icon_43h.png);}
-.page-productContent .list:hover .icon12{background-image:url(/public/v1/img/page-icon_44h.png);}
-.page-productContent .list:hover .icon13{background-image:url(/public/v1/img/page-icon_45h.png);}
-.page-productContent .list:hover .icon14{background-image:url(/public/v1/img/page-icon_46h.png);}
-.page-productContent .list:hover .icon15{background-image:url(/public/v1/img/page-icon_47h.png);}
+.page-productContent .icon1{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_33.png);}
+.page-productContent .icon2{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_34.png);}
+.page-productContent .icon3{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_35.png);}
+.page-productContent .icon4{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_36.png);}
+.page-productContent .icon5{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_37.png);}
+.page-productContent .icon6{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_38.png);}
+.page-productContent .icon7{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_39.png);}
+.page-productContent .icon8{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_40.png);}
+.page-productContent .icon9{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_41.png);}
+.page-productContent .icon10{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_42.png);}
+.page-productContent .icon11{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_43.png);}
+.page-productContent .icon12{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_44.png);}
+.page-productContent .icon13{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_45.png);}
+.page-productContent .icon14{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_46.png);}
+.page-productContent .icon15{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_47.png);}
+.page-productContent .list:hover .icon1{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_33h.png);}
+.page-productContent .list:hover .icon2{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_34h.png);}
+.page-productContent .list:hover .icon3{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_35h.png);}
+.page-productContent .list:hover .icon4{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_36h.png);}
+.page-productContent .list:hover .icon5{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_37h.png);}
+.page-productContent .list:hover .icon6{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_38h.png);}
+.page-productContent .list:hover .icon7{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_39h.png);}
+.page-productContent .list:hover .icon8{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_40h.png);}
+.page-productContent .list:hover .icon9{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_41h.png);}
+.page-productContent .list:hover .icon10{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_42h.png);}
+.page-productContent .list:hover .icon11{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_43h.png);}
+.page-productContent .list:hover .icon12{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_44h.png);}
+.page-productContent .list:hover .icon13{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_45h.png);}
+.page-productContent .list:hover .icon14{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_46h.png);}
+.page-productContent .list:hover .icon15{background-image:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_47h.png);}
 /*购物商城案例*/
 .page-productCase{padding-top:70px;}
 .page-productCase .listBox{padding-bottom:40px; margin-top:40px;}
@@ -372,19 +372,19 @@ img{border:0;}
 .page-videoListBox .list a:hover .title{background:#f0831e;}
 .page-videoListBox .list a:hover{color:#fff;}
 .page-videoListBox .title{line-height:70px; min-height:70px; background:transparent; padding:0px 10px; font-size:16px;}
-.page-videoListBox .views{padding-left:25px; background:url(/public/v1/img/page-icon_48.png) no-repeat left 50%;}
-.page-videoListBox .list a:hover .views{background:url(/public/v1/img/page-icon_48h.png) no-repeat left 50%;}
+.page-videoListBox .views{padding-left:25px; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_48.png) no-repeat left 50%;}
+.page-videoListBox .list a:hover .views{background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_48h.png) no-repeat left 50%;}
 /*内页作品展示列表*/
 .page-caseListBox .page-publicLine{margin:45px 0px;}
 .page-caseListBox .listPadding{padding:0px 12.5px;}
 .page-caseListBox .listPadding .row{margin:0px -12.5px;}
 .page-caseListBox .list{padding:0px 12.5px; margin-bottom:30px;}
-.page-caseListBox .picHover{display:none; background:url(/public/v1/img/page-icon_49.png) no-repeat 50% rgba(0, 0, 0, 0.42); left:0px; top:0px;}
+.page-caseListBox .picHover{display:none; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_49.png) no-repeat 50% rgba(0, 0, 0, 0.42); left:0px; top:0px;}
 .page-caseListBox a{color:#000; border-color:#f5f5f5;}
 .page-caseListBox a:hover{background:#f0831e; color:#fff;}
 .page-caseListBox a:hover .picHover{display:block;}
-.page-caseListBox a:hover .titleBox{background:url(/public/v1/img/page-icon_50h.png) right 50% no-repeat;}
-.page-caseListBox .titleBox{padding:8px 0px; background:url(/public/v1/img/page-icon_50.png) right 50% no-repeat; width:90%;}
+.page-caseListBox a:hover .titleBox{background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_50h.png) right 50% no-repeat;}
+.page-caseListBox .titleBox{padding:8px 0px; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_50.png) right 50% no-repeat; width:90%;}
 .page-caseListBox .titleBox p{font-size:16px; line-height:30px;}
 .page-caseListBox .titleBox span{font-size:12px;}
 /*内页合作伙伴*/
@@ -395,11 +395,11 @@ img{border:0;}
 #pagePartner .owl-pagination{display:block;}
 #pages { padding:14px 0 10px; font-family:宋体; text-align:center; float:left; width:100%;}
 #pages a { display:inline-block; height:22px; line-height:22px; background:#fff; border:1px solid #e3e3e3; text-align:center; color:#333; padding:0 10px}
-#pages a.a1 { background:url(/public/v1/img/pages.png) no-repeat 0 5px; width:56px; padding:0 }
+#pages a.a1 { background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/pages.png) no-repeat 0 5px; width:56px; padding:0 }
 #pages a:hover { background:#f1f1f1; color:#000; text-decoration:none }
 #pages span { display:inline-block; height:22px; line-height:22px; background:#f0831e; border:1px solid #f0831e; color:#fff; text-align:center;padding:0 10px}
 .mobile-page{text-align:center; margin:15px auto 0px auto;}
-.page .noPage { display:inline-block; width:56px; height:22px; line-height:22px; background:url(/public/v1/img/titlebg.png) repeat-x 0 -55px ; border:1px solid #e3e3e3; text-align:center; color:#a4a4a4; }
+.page .noPage { display:inline-block; width:56px; height:22px; line-height:22px; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/titlebg.png) repeat-x 0 -55px ; border:1px solid #e3e3e3; text-align:center; color:#a4a4a4; }
 .g-page{ margin-bottom:20px;}
 .g-page .u-pup {border-radius:5px;display:inline-block;font-size:1em;height: 30px;line-height: 30px; text-align: center;width:25%;}
 .g-page .u-sa {border-radius:5px;display:inline-block;font-size:1em;height: 30px;line-height: 30px; text-align: center;width:25%;}
@@ -421,7 +421,7 @@ background-image: linear-gradient(top, #FFA000, #FF8800); }
 .page-status{max-width:1230px; padding-top:65px;}
 .status-searchBox{float:left;}
 .status-searchBox p{font-size:18px; color:#212121; margin-bottom:25px;}
-.status-searchBox input{height:47px; line-height:47px; padding-left:45px; width:75%; border-color:#c9c9c9; background:url(/public/v1/img/page-icon_53.png) no-repeat 10px 50%;}
+.status-searchBox input{height:47px; line-height:47px; padding-left:45px; width:75%; border-color:#c9c9c9; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_53.png) no-repeat 10px 50%;}
 .status-searchBox button{width:23%; background:#f0831e; color:#fff;}
 .status-searchBox button,.status-searchBox input{height:47px; line-height:47px;}
 .status-top-number{padding-top:35px;}
@@ -430,7 +430,7 @@ background-image: linear-gradient(top, #FFA000, #FF8800); }
 .status-middleBox{padding-top:80px; color:#212121;}
 .status-middleBox .slogan p{font-size:16px; }
 .status-middleBox .slogan span{font-size:12px;}
-.page-status .iconTitle{background:url(/public/v1/img/page-icon_54.jpg) no-repeat left 50%; padding-left:30px; font-size:18px; color:#212121; height:30px; line-height:30px; margin-bottom:40px;}
+.page-status .iconTitle{background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_54.jpg) no-repeat left 50%; padding-left:30px; font-size:18px; color:#212121; height:30px; line-height:30px; margin-bottom:40px;}
 .visible-lg-tableRow{margin:0px -3px;}
 .visible-lg-tableRow .list{padding:0px 3px; color:#212121; margin:15px 0px;}
 .visible-lg-tableRow .list .title{height:40px; line-height:40px; background:#e4e4e4; margin-bottom:6px;}
@@ -442,20 +442,20 @@ background-image: linear-gradient(top, #FFA000, #FF8800); }
 .visible-lg-FlowChart .middle-line{width:2px; height:120px;}
 .visible-lg-FlowChart .middle-line .dots{border-color:#fff; border-width:3px; width:13px; height:13px; bottom:-8px; left:-5px; border-radius:50%;}
 .visible-lg-FlowChart .middle-line,.visible-lg-FlowChart .middle-line .dots{background:#e4e4e4;}
-.visible-lg-FlowChart .line-box li .state-Box{top:65px; background:url(/public/v1/img/page-icon_57.png) no-repeat 50%; left:57px; width:126px; height:142px; line-height:125px; color:#000; font-size:16px; z-index:1024;}
+.visible-lg-FlowChart .line-box li .state-Box{top:65px; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_57.png) no-repeat 50%; left:57px; width:126px; height:142px; line-height:125px; color:#000; font-size:16px; z-index:1024;}
 .visible-lg-FlowChart .line-box li .timeBox{bottom:-45px; color:#6b6b6b; line-height:30px;}
 .visible-lg-FlowChart .line-box li .timeBox span{display:none;}
 .visible-lg-FlowChart .line-box li .timeBox span:nth-child(3){display:-webkit-inline-box;}
-.visible-lg-FlowChart .line-box .Done .state-Box{background:url(/public/v1/img/page-icon_59.png) no-repeat 50%; color:#fff;}
+.visible-lg-FlowChart .line-box .Done .state-Box{background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_59.png) no-repeat 50%; color:#fff;}
 .visible-lg-FlowChart .line-box .Done .timeBox span:nth-child(3),.visible-lg-FlowChart .line-box .Done .timeBox span:nth-child(2){display:none;}
 .visible-lg-FlowChart .line-box .Done .timeBox span:nth-child(1){display:block; color:#fabf13;}
 .visible-lg-FlowChart .line-box .Done .middle-line,.visible-lg-FlowChart .line-box .Done .dots{background:#fabf13;} 
-.visible-lg-FlowChart .line-box .Marking .state-Box{top:10px; background:url(/public/v1/img/page-icon_56.png) no-repeat 50%; color:#fff;}
+.visible-lg-FlowChart .line-box .Marking .state-Box{top:10px; background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_56.png) no-repeat 50%; color:#fff;}
 .visible-lg-FlowChart .line-box .Marking .timeBox span:nth-child(2),.visible-lg-FlowChart .line-box .Marking .timeBox span:nth-child(3){display:-webkit-inline-box;}
 .visible-lg-FlowChart .line-box .Marking .timeBox span:nth-child(1){display:none;}
 .visible-lg-FlowChart .line-box .Marking .middle-line,.visible-lg-FlowChart .line-box .Marking .dots{background:#f0831e;} 
 .visible-lg-FlowChart .arrowBox li{width:20%; height:24px;}
-.visible-lg-FlowChart .arrowBox .on{background:url(/public/v1/img/page-icon_58.png) no-repeat 50%;}
+.visible-lg-FlowChart .arrowBox .on{background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_58.png) no-repeat 50%;}
 .visible-lg-trainBox{margin-bottom:10px;}
 .visible-lg-trainBox .listBox{height:95px; padding-top:45px;}
 .visible-lg-trainBox .listBox .line{height:4px; background:#c0c0c0;}
@@ -465,7 +465,7 @@ background-image: linear-gradient(top, #FFA000, #FF8800); }
 .visible-lg-trainBox .listBox ul .underway div{background:#f0831e;}
 .visible-lg-trainBox .iconBox{margin-top:10px;}
 .visible-lg-trainBox .iconBox li{height:24px;}
-.visible-lg-trainBox .iconBox .on{background:url(/public/v1/img/page-icon_58.png) no-repeat 50%;}
+.visible-lg-trainBox .iconBox .on{background:url(https://cdn.jsdelivr.net/gh/myfire2014/statics@1.0/weixin/v1/img/page-icon_58.png) no-repeat 50%;}
 .visible-lg-FlowChart .demandBox,
 .visible-lg-trainBox .trainingContent
 {
