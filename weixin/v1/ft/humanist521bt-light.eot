@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>对不起，您要的页面已丢失</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+<link rel="stylesheet" href="templets/default/css/err.css">
+<script src="images/js/jquery-1.7.1.min.js"></script>
+</head>
+<style>
+	html,body{
+		height: 100%;min-width:1200px;
+	}
+</style>
+<body>
+	<div class="err_cont">
+		<div class="err_" style="background:url(templets/default/css/img2018/404.png)no-repeat center center;background-size: cover;">
+			<div class="left_pic">
+				<img src="templets/default/css/img2018/err02.png" alt="">
+			</div>
+			<div class="right_info">
+					<img src="templets/default/css/img2018/404-1.png" alt="">
+					<h4>对不起，您要的页面已丢失</h4>
+					<p>
+						<a href="/">去首页</a>
+					</p>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
